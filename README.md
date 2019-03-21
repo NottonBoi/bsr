@@ -1,6 +1,8 @@
 # bsr
 A small trojan (Not harmful!)
 
+It looks cooler than what the code looks like and what the features say!
+
 # Features
 - Kills explorer.exe so the user cant shutdown or open anything on desktop
 - Constantly kills taskmgr.exe so the user cant end the process
